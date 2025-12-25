@@ -18,8 +18,12 @@ The repository currently contains 7 notebooks demonstrating key ML concepts:
 - `statistical-tests.ipynb` – t-test and ANOVA examples.
 - `eda-visualization.ipynb` – Exploratory Data Analysis and visualization techniques.
 - `data-summary-correlation.ipynb` – Descriptive statistics and correlation analysis.
+  
+### Regression
+- `linear-regression.ipynb` – Linear regression implementation and evaluation.
+- `ridge-lasso-regression.ipynb` – Regularized regression using Ridge and Lasso techniques.
 
-> **Note:** `Ridge_and_Lasso_regression` will be added to the regression folder later.
+
 
 ---
 
